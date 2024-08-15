@@ -1,6 +1,5 @@
 teste para início de repositório do git
 
-
-ahasafasfaasf
-
 vai Corinthians
+
+Aprendendo sobre git e GitHub na rocketseat curso do full-stack
