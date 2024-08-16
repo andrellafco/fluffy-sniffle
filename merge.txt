@@ -1,0 +1,1 @@
+O merge é um processo onde une os códigos e analisa qual código deve ser mantido e qual deve ser removido. 
